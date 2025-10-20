@@ -32,7 +32,7 @@ Para executar este projeto localmente, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/AlexMachineCode/python-password-manager.git](https://github.com/AlexMachineCode/python-password-manager.git)
+    git clone https://github.com/AlexMachineCode/Python-Password-Manager.git
     ```
 
 2.  **Navegue até o diretório:**
